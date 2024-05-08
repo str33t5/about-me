@@ -1,0 +1,32 @@
+body {
+    background: #cf2828;
+  }
+  
+  p {
+    color: #ffffff;
+    font-family: monospace;
+    text-align: center;
+  }
+  
+  h1 {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    border: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    border-style: groove;
+    box-shadow: 0 0 10px;
+  }
+  
+  h3 {
+    text-align: center;
+    color: gray;
+    font-family: monospace;
+    border: 6px;
+    border-radius: 6px;
+    padding: 3px;
+    border-style: groove;
+    background-color: black;
+    box-shadow: 0 0 10px;
+  }
